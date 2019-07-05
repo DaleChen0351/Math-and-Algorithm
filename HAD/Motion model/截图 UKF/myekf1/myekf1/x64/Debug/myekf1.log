@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  FusionEKF.cpp
+d:\4 外部学习资料\math-and-algorithm\had\motion model\截图 ukf\myekf1\myekf1\fusionekf.cpp(92): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+d:\4 外部学习资料\math-and-algorithm\had\motion model\截图 ukf\myekf1\myekf1\fusionekf.cpp(93): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+d:\4 外部学习资料\math-and-algorithm\had\motion model\截图 ukf\myekf1\myekf1\fusionekf.cpp(94): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+d:\4 外部学习资料\math-and-algorithm\had\motion model\截图 ukf\myekf1\myekf1\fusionekf.cpp(130): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  kalman_filter.cpp
+d:\4 外部学习资料\math-and-algorithm\had\motion model\截图 ukf\myekf1\myekf1\kalman_filter.cpp(52): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\4 外部学习资料\math-and-algorithm\had\motion model\截图 ukf\myekf1\myekf1\kalman_filter.cpp(53): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\4 外部学习资料\math-and-algorithm\had\motion model\截图 ukf\myekf1\myekf1\kalman_filter.cpp(54): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\4 外部学习资料\math-and-algorithm\had\motion model\截图 ukf\myekf1\myekf1\kalman_filter.cpp(55): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\4 外部学习资料\math-and-algorithm\had\motion model\截图 ukf\myekf1\myekf1\kalman_filter.cpp(66): warning C4305: “=”: 从“double”到“float”截断
+d:\4 外部学习资料\math-and-algorithm\had\motion model\截图 ukf\myekf1\myekf1\kalman_filter.cpp(97): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  myekf1.cpp
+  tools.cpp
+d:\4 外部学习资料\math-and-algorithm\had\motion model\截图 ukf\myekf1\myekf1\tools.cpp(36): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+  正在生成代码...
+  myekf1.vcxproj -> D:\4 外部学习资料\Math-and-Algorithm\HAD\Motion model\截图 UKF\myekf1\x64\Debug\myekf1.exe
