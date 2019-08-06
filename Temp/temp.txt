@@ -1,1 +1,13 @@
 ÁÙÊ±
+
+Supported Protocols TCP only [help]
+ShadowSocks Encryption aes-256-cfb
+ShadowSocks Port 60890
+ShadowSocks Password gbRWXCGy4d
+
+
+c21s1.jamjams.net -> 216.24.186.238
+c21s2.jamjams.net -> 216.24.186.35
+c21s3.jamjams.net -> 216.24.184.254
+c21s4.jamjams.net -> 97.64.47.168
+c21s5.jamjams.net -> 67.216.207.196
