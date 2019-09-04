@@ -1,5 +1,7 @@
 ÁÙÊ±
-
+https://www.flyzy2005.com/fan-qiang/just-my-socks-buy/
+https://justmysocks1.net/members/clientarea.php?action=productdetails&id=57073
+1 
 Supported Protocols TCP only [help]
 ShadowSocks Encryption aes-256-cfb
 ShadowSocks Port 60890
@@ -11,3 +13,14 @@ c21s2.jamjams.net -> 216.24.186.35
 c21s3.jamjams.net -> 216.24.184.254
 c21s4.jamjams.net -> 97.64.47.168
 c21s5.jamjams.net -> 67.216.207.196
+
+2 
+ShadowSocks Encryption aes-256-cfb
+ShadowSocks Port 35955
+ShadowSocks Password MZYfC3Jeza
+
+c9s1.jamjams.net -> 199.19.104.136
+c9s2.jamjams.net -> 173.242.123.24
+c9s3.jamjams.net -> 216.24.176.240
+c9s4.jamjams.net -> 104.194.66.36
+c9s5.jamjams.net -> 144.34.190.251
