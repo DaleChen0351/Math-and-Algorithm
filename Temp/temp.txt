@@ -19,8 +19,8 @@ ShadowSocks Encryption aes-256-cfb
 ShadowSocks Port 35955
 ShadowSocks Password MZYfC3Jeza
 
-c9s1.jamjams.net -> 199.19.104.136
-c9s2.jamjams.net -> 173.242.123.24
-c9s3.jamjams.net -> 216.24.176.240
-c9s4.jamjams.net -> 104.194.66.36
-c9s5.jamjams.net -> 144.34.190.251
+c9s1.jamjams.net -> 199.19.104.59
+c9s2.jamjams.net -> 192.69.90.113
+c9s3.jamjams.net -> 192.69.90.144
+c9s4.jamjams.net -> 104.194.66.44
+c9s5.jamjams.net -> 144.34.190.181
